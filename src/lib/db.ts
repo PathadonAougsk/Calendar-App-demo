@@ -51,5 +51,3 @@ export async function QueryBasedOnMonth(date: number | Date) {
 
   return queryDict;
 }
-
-console.log(await QueryBasedOnMonth(Date.now()));

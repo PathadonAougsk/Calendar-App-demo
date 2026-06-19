@@ -1,12 +1,7 @@
-## DEMO CALENDAR
+# TILL-X
 
-Must set up your own env. to
+![friends](https://img.shields.io/badge/friends-0-lightgrey)
 
-```
-POSTGRES_USER=""
-POSTGRES_PASSWORD=""
-POSTGRES_DB=""
-DATABASE_URL="postgresql://user:password@localhost:5432/tillx"
-```
+A calendar app for everyone who's too damn lonely to share their tasks.
 
-then don't forgot to run docker-compose up -d
+TILL-X is the world's first social calendar for people with nobody to be social with. You add your tasks, you add your events, you hit save, and then nothing.., like everyone else. We just all here pretend to be busy.

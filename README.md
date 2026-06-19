@@ -4,4 +4,4 @@
 
 A calendar app for everyone who's too damn lonely to share their tasks.
 
-TILL-X is the world's first social calendar for people with nobody to be social with. You add your tasks, you add your events, you hit save, and then nothing.., like everyone else. We just all here pretend to be busy.
+TILL-X is the world's first social calendar for people with nobody to be social with. You add your tasks, you add your events, you hit save, and then nothing.. We all pretend to be busy.
